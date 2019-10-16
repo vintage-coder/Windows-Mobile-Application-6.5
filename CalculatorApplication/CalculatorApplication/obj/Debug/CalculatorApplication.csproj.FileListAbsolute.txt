@@ -1,0 +1,8 @@
+H:\Windows Mobile Application\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+H:\Windows Mobile Application\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+H:\Windows Mobile Application\CalculatorApplication\CalculatorApplication\obj\Debug\ResolveAssemblyReference.cache
+H:\Windows Mobile Application\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Calculator.resources
+H:\Windows Mobile Application\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+H:\Windows Mobile Application\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
+H:\Windows Mobile Application\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+H:\Windows Mobile Application\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb

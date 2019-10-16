@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApplication", "CalculatorApplication\CalculatorApplication.csproj", "{E08B9239-E83F-4D48-8B91-C36A4240714E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08B9239-E83F-4D48-8B91-C36A4240714E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08B9239-E83F-4D48-8B91-C36A4240714E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08B9239-E83F-4D48-8B91-C36A4240714E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E08B9239-E83F-4D48-8B91-C36A4240714E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08B9239-E83F-4D48-8B91-C36A4240714E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08B9239-E83F-4D48-8B91-C36A4240714E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
